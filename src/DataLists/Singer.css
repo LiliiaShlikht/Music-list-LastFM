@@ -1,0 +1,11 @@
+.singerBlock {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    background-color: beige;
+}
+.infoSinger {
+    margin: 10px 15% 40px 15%;
+    border: black solid;
+    padding: 15px;
+}

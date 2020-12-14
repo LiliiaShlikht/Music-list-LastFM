@@ -1,0 +1,8 @@
+.searchBlock {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(238, 248, 253);
+    min-height: 700px;
+}
+.song { border-bottom: rgb(43, 93, 105) dotted; }

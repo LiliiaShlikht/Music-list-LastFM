@@ -1,0 +1,13 @@
+.mainBlock {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    background-color: lightyellow;
+}
+h1 { color: rgb(20, 19, 63); }
+li {
+    list-style-type: none;
+    display: flex;
+    padding-top: 10px;
+}
+.info { padding-left: 10px; }
